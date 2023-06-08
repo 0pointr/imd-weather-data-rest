@@ -11,7 +11,7 @@ export type Station = {
 }
 
 export async function parseAllStations(): Promise<Station[]> {
-    const html = await getPageHtml(config.station_menu_url)
+    const html = await getPageHtml(config.stationMenuUrl)
     const $ = Cheerio.load(html)
 
     const stations: Station[] = []

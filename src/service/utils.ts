@@ -1,3 +1,4 @@
+import { format } from "winston";
 import config from "../config";
 import DateFormatError from "../exceptions/DateFormatError";
 import { Station } from "./scraper/StationScraper";
@@ -13,7 +14,7 @@ export function resolveStringTemplate(template : string, context : object) : str
 }
 
 export function getStationPageURL(station: Station): string {
-    return resolveStringTemplate(config.station_weather_url_template, station)
+    return resolveStringTemplate(config.stationWeatherUrlTemplate, station)
 }
 
 export function getDateFromString(datum: string, format : string = 'dd-MMM'): Date {
@@ -33,4 +34,26 @@ export function getDateFromString(datum: string, format : string = 'dd-MMM'): Da
     } else {
         return new Date(expectedDateEpoch)
     }
+}
+
+export function isNumeric(num: any) : boolean {
+    return (typeof(num) === 'number' || typeof(num) === "string" && num.trim() !== '')
+            && !isNaN(num as number)
+}
+
+export function toNumberOrNull(datum: string) {
+    if (isNumeric(datum)) {
+        return Number(datum)
+    } else {
+        return null
+    }
+}
+
+export function formatDate(date: Date, format: string) {
+    return format.replace('dd', String(date.getDay()))
+                 .replace('MM', String(date.getMonth()+1))
+                 .replace('yyyy', String(date.getFullYear()))
+                 .replace('HH', String(date.getHours()))
+                 .replace('mm', String(date.getMinutes()))
+                 .replace('ss', String(date.getSeconds()))
 }

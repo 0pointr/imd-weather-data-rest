@@ -5,13 +5,13 @@ import WeatherDataNotFoundError from "../../exceptions/WeatherDataNotFoundError"
 import fs from 'fs'
 import logger from "../../logger";
 import { val } from "cheerio/lib/api/attributes";
-import { ForcastWeatherData, PageWeatherData, PresentWeatherData, 
+import { PageForcastWeatherData, PageWeatherData, PagePresentWeatherData, 
          RainfallUnit, RelativeHumidityUnit, TemperatureUnit } from "../../types/scraper/types";
 
 const forecastTbodySelectorExtendedPage = 'table:nth-child(4) > tbody > tr:nth-child(2) > td > table > tbody' // > tr:nth-child(3)'
 const forecastTbodySelector = 'table table' //'table > tbody > tr > td:nth-child(2) > table > tbody' // > tr:nth-child(3)'
 
-function scrapeForecastDataHtml(html: string, station : Station): ForcastWeatherData[] {
+function scrapeForecastDataHtml(html: string, station : Station): PageForcastWeatherData[] {
     const $ = cheerio.load(html)
 
     let tableBody = $(forecastTbodySelectorExtendedPage)
@@ -23,14 +23,14 @@ function scrapeForecastDataHtml(html: string, station : Station): ForcastWeather
         throw new WeatherDataNotFoundError(`Forecast table not found for station: ${JSON.stringify(station)}`)
     }
 
-    const dayWeatherForcast : ForcastWeatherData[] = []
+    const dayWeatherForcast : PageForcastWeatherData[] = []
     const imageIndex = 3
     const dataIndex = { 0:'date', 1:'minTemp', 2:'maxTemp', 3:'image', 4:'sky'}
     tableBody.find('tr:nth-child(n+3)').each((rowIndex, row) => {
         try {
             let date : Date, 
-                minTemp : number,
-                maxTemp : number, 
+                minTemp : string,
+                maxTemp : string, 
                 sky : string
             $(row).find('td').each((cellIndex, cell) => {
                 if (cellIndex !== imageIndex) {
@@ -41,10 +41,10 @@ function scrapeForecastDataHtml(html: string, station : Station): ForcastWeather
                             date = getDateFromString(datum)
                             break
                         case 'minTemp':
-                            minTemp = Number(datum)
+                            minTemp = datum
                             break
                         case 'maxTemp':
-                            maxTemp = Number(datum)
+                            maxTemp = datum
                             break
                         case 'sky':
                             sky = datum
@@ -60,7 +60,7 @@ function scrapeForecastDataHtml(html: string, station : Station): ForcastWeather
     return dayWeatherForcast
 }
 
-function assignValue(weatherData: PresentWeatherData, label: string, value: string) : void {
+function assignValue(weatherData: PagePresentWeatherData, label: string, value: string) : void {
     const signatures = [
         { field: 'maxTemp', regex: /Max.*Temp/i},
         { field: 'minTemp', regex: /Min.*Temp/i},
@@ -80,7 +80,7 @@ function assignValue(weatherData: PresentWeatherData, label: string, value: stri
     }
 }
 
-function scrapePresentWeatherDataHtml(html: string, station: Station) : PresentWeatherData {
+function scrapePresentWeatherDataHtml(html: string, station: Station) : PagePresentWeatherData {
     const tableSelector = 'body > center > font > table:nth-child(4) tr:nth-child(1) td:nth-child(2)'
     const dateSelector = 'b:nth-child(3)'
     const $ = cheerio.load(html)
@@ -107,15 +107,10 @@ function scrapePresentWeatherDataHtml(html: string, station: Station) : PresentW
                         ? getDateFromString(dateString, 'MMM dd, yyyy')
                         : new Date()
 
-    const weatherData : PresentWeatherData = <PresentWeatherData>{}
+    const weatherData : PagePresentWeatherData = <PagePresentWeatherData>{}
     weatherData.date = dataDate,
     weatherData.isReportedDate = useReportedDate
-    weatherData.units = {
-        temperature: TemperatureUnit.celcius,
-        humidity: RelativeHumidityUnit.percent,
-        rainfall: RainfallUnit.mm
-    }
-
+    
     let historicTableBody = $(tableSelector)
     historicTableBody.find('tr:nth-child(n+2)').each((rowIndex, row) => {
         try {
@@ -131,7 +126,7 @@ function scrapePresentWeatherDataHtml(html: string, station: Station) : PresentW
     return weatherData
 }
 
-export function scrapePresentWeatherData(station: Station) : PresentWeatherData {
+export function scrapePresentWeatherData(station: Station) : PagePresentWeatherData {
     // const html :string = await getPageHtml(getStationPageURL(station))
     // const data = await (await fetch('https://city.imd.gov.in/citywx/city_weather_test.php?id=100300')).text()
     // fs.writeFile(
@@ -151,19 +146,19 @@ export async function scrapeWeatherData(
     parseForecasts: boolean = true,
     parseHistoric: boolean = true) 
 : Promise<PageWeatherData> | null {
-    // const html :string = await getPageHtml(getStationPageURL(station))
+    const html :string = await getPageHtml(getStationPageURL(station))
     // const data = await (await fetch('https://city.imd.gov.in/citywx/city_weather_test.php?id=100300')).text()
     // fs.writeFile(
     //     __dirname + '/../../data/weather-short.html', 
     //     data,
     //     () => {}
     // )
-    const html :string = fs.readFileSync(
-        __dirname + '/../../data/weather-short.html', 
-        'utf8', 
-        )
+    // const html :string = fs.readFileSync(
+    //     __dirname + '/../data/weather-full.html', 
+    //     'utf8', 
+    //     )
     
-    let forecasts: ForcastWeatherData[]
+    let forecasts: PageForcastWeatherData[]
     if (parseForecasts) {
         try {
             forecasts = scrapeForecastDataHtml(html, station)
@@ -172,7 +167,7 @@ export async function scrapeWeatherData(
         }
     }
 
-    let historic: PresentWeatherData
+    let historic: PagePresentWeatherData
     if (parseHistoric) {
         try {
             historic = scrapePresentWeatherDataHtml(html, station)
@@ -187,6 +182,11 @@ export async function scrapeWeatherData(
         presentWeather: historic,
         hasForecastWeatherData: !!forecasts,
         hasPresentWeatherData: !!historic,
+        units: {
+            temperature: TemperatureUnit.celcius,
+            humidity: RelativeHumidityUnit.percent,
+            rainfall: RainfallUnit.mm
+        }
     }
 }
 

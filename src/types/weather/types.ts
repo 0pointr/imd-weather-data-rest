@@ -11,12 +11,12 @@ export enum RainfallUnit {
     mm = 'mm'
 }
 
-export type PageWeatherData = {
+export type WeatherData = {
     station: Station;
-    dailyForecasts: PageForcastWeatherData[];
-    presentWeather?: PagePresentWeatherData;
-    hasForecastWeatherData: boolean;
-    hasPresentWeatherData: boolean;
+    hasForecastWeatherData: boolean,
+    hasPresentWeatherData: boolean,
+    dailyForecasts?: ForcastWeatherData[],
+    presentWeather?: PresentWeatherData;
     units: {
         temperature: TemperatureUnit,
         humidity: RelativeHumidityUnit,
@@ -24,22 +24,22 @@ export type PageWeatherData = {
     }
 };
 
-export type PageForcastWeatherData = {
-    date: Date,
-    minTemp: string,
-    maxTemp: string,
+export type ForcastWeatherData = {
+    date: string,
+    minTemp: number,
+    maxTemp: number,
     sky: string
 }
 
-export type PagePresentWeatherData = {
-    date: Date,
+export type PresentWeatherData = {
+    date: string,
     isReportedDate: boolean,
-    maxTemp: string,
-    maxTempDiff?: string,
-    minTemp: string,
-    minTempDiff?: string,
-    rainfall?: string,
-    relativeHumidity?: string,
+    maxTemp: number,
+    // maxTempDiff?: string,
+    minTemp: number,
+    // minTempDiff?: string,
+    rainfall?: number,
+    relativeHumidity?: number,
     sunrise?: string,
     sunset?: string,
     moonrise?: string,
