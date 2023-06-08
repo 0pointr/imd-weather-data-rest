@@ -2,8 +2,9 @@
 # imd-weather-data-rest
 
 This package provides a simple REST-ish interface for grabbing weather data
-published by IMD. IMD itself publishes no publicly accessible API which is
-sad for a public meteorological department at current times.
+published by the Indian Meteorological Department. IMD itself publishes no 
+publicly accessible API which is rather sad for a public meteorological
+department at current times.
 
 This package attempts to scrape data from IMD's website and serve it in a tidy
 format, but this also means it is at the mercy of IMD not changing its website's

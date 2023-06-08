@@ -4,7 +4,6 @@ import cheerio from "cheerio";
 import WeatherDataNotFoundError from "../../exceptions/WeatherDataNotFoundError";
 import fs from 'fs'
 import logger from "../../logger";
-import { val } from "cheerio/lib/api/attributes";
 import { PageForcastWeatherData, PageWeatherData, PagePresentWeatherData, 
          RainfallUnit, RelativeHumidityUnit, TemperatureUnit } from "../../types/scraper/types";
 
@@ -126,18 +125,17 @@ function scrapePresentWeatherDataHtml(html: string, station: Station) : PagePres
     return weatherData
 }
 
-export function scrapePresentWeatherData(station: Station) : PagePresentWeatherData {
-    // const html :string = await getPageHtml(getStationPageURL(station))
-    // const data = await (await fetch('https://city.imd.gov.in/citywx/city_weather_test.php?id=100300')).text()
+export async function scrapePresentWeatherData(station: Station) : Promise<PagePresentWeatherData> {
+    const html :string = await getPageHtml(getStationPageURL(station))
     // fs.writeFile(
     //     __dirname + '/../../data/weather-short.html', 
     //     data,
     //     () => {}
     // )
-    const html :string = fs.readFileSync(
-        __dirname + '/../../data/weather-short.html', 
-        'utf8', 
-        )
+    // const html :string = fs.readFileSync(
+    //     __dirname + '/../../data/weather-short.html', 
+    //     'utf8', 
+    //     )
     return scrapePresentWeatherDataHtml(html, station)
 }
 
@@ -147,7 +145,6 @@ export async function scrapeWeatherData(
     parseHistoric: boolean = true) 
 : Promise<PageWeatherData> | null {
     const html :string = await getPageHtml(getStationPageURL(station))
-    // const data = await (await fetch('https://city.imd.gov.in/citywx/city_weather_test.php?id=100300')).text()
     // fs.writeFile(
     //     __dirname + '/../../data/weather-short.html', 
     //     data,
