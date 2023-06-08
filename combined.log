@@ -1,0 +1,203 @@
+{"level":"info","message":"stations data has been written to file"}
+{"code":"ENOENT","errno":-2,"level":"error","path":"/Users/debajoydas/local-dev/weather-api/dist/../data/stations.json","syscall":"open"}
+{"level":"info","message":"stations data has been written to file"}
+{"level":"info","message":"stations data has been written to file"}
+{"level":"info","message":0}
+{"level":"info","message":0}
+{"level":"info","message":9}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":7}
+{"level":"info","message":8}
+{"level":"info","message":0}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"level":"info","message":0}
+{"level":"info","message":1}
+{"level":"info","message":2}
+{"level":"info","message":3}
+{"level":"info","message":4}
+{"level":"info","message":5}
+{"level":"info","message":6}
+{"cause":null,"level":"error"}
+undefined [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:179:28
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[object Object] [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:179:28
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:179:28
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08T08:40:01.878Z [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 02:10:39 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 14:10:59 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"} - Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 14:11:27 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 14:12:07 [31merror[39m: Forecast table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+Error: Forecast table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapeForecastDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:42:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:167:29
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 14:12:07 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 14:14:02 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:106:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:176:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/StationWeatherDataScraper.js:155:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)
+2023-06-08 16:49:03 [31merror[39m: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+Error: Present weather table not found for station: {"state":"WB","area":"Kolkata","code":"100230"}
+    at scrapePresentWeatherDataHtml (/Users/debajoydas/local-dev/weather-api/dist/service/scraper/StationWeatherDataScraper.js:95:15)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/scraper/StationWeatherDataScraper.js:165:28
+    at Generator.next (<anonymous>)
+    at /Users/debajoydas/local-dev/weather-api/dist/service/scraper/StationWeatherDataScraper.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/Users/debajoydas/local-dev/weather-api/dist/service/scraper/StationWeatherDataScraper.js:4:12)
+    at scrapeWeatherData (/Users/debajoydas/local-dev/weather-api/dist/service/scraper/StationWeatherDataScraper.js:144:12)
+    at /Users/debajoydas/local-dev/weather-api/dist/App.js:67:73
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/debajoydas/local-dev/weather-api/dist/App.js:28:58)

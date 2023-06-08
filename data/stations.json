@@ -1,0 +1,6802 @@
+[
+  {
+    "state": "Andaman & Nicobar",
+    "area": "Carnicobar",
+    "code": "43367"
+  },
+  {
+    "state": "Andaman & Nicobar",
+    "area": "Maya Bandar",
+    "code": "43309"
+  },
+  {
+    "state": "Andaman & Nicobar",
+    "area": "Nancowrie",
+    "code": "43382"
+  },
+  {
+    "state": "Andaman & Nicobar",
+    "area": "Port Blair",
+    "code": "43333"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Amadalavalasa",
+    "code": "99369"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Amaravati-ap",
+    "code": "43176"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Anantapur",
+    "code": "43237"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Banavasi",
+    "code": "99364"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Bapatla",
+    "code": "43220"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Cuddappah",
+    "code": "43241"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Darsi",
+    "code": "99368"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Garikapadu",
+    "code": "99366"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Kakinada",
+    "code": "43189"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Kalavacharla",
+    "code": "99362"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Kalingapatnam",
+    "code": "43105"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Kavali",
+    "code": "43243"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Kurnool",
+    "code": "43213"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Machilipatnam",
+    "code": "43185"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Narasapur",
+    "code": "43187"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Nellore",
+    "code": "43245"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Nellore_kvk",
+    "code": "99365"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Ongole",
+    "code": "43221"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Tirupathi",
+    "code": "43275"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Tuni",
+    "code": "43147"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Utkuru",
+    "code": "99370"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Venkataramannagudem",
+    "code": "99363"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Vijayawada-gannavaram",
+    "code": "43181"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Visakhapatnam",
+    "code": "43150"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "area": "Vizianagaram",
+    "code": "99367"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Anni",
+    "code": "30002"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Itanagar",
+    "code": "42308"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Kameng-bichom Dam",
+    "code": "101012"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Kameng-tenga Dam",
+    "code": "101013"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Karsingsa",
+    "code": "99372"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Namsai",
+    "code": "99371"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Passighat",
+    "code": "42220"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Ranganadi",
+    "code": "101027"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Subansiri Lower",
+    "code": "101039"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Tawang",
+    "code": "30001"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "area": "Tawang Chamgbu",
+    "code": "99373"
+  },
+  {
+    "state": "Assam",
+    "area": "Baksa",
+    "code": "99374"
+  },
+  {
+    "state": "Assam",
+    "area": "Barpeta",
+    "code": "40001"
+  },
+  {
+    "state": "Assam",
+    "area": "Barpeta Kvk",
+    "code": "99375"
+  },
+  {
+    "state": "Assam",
+    "area": "Cacher",
+    "code": "99376"
+  },
+  {
+    "state": "Assam",
+    "area": "Dhubri",
+    "code": "42406"
+  },
+  {
+    "state": "Assam",
+    "area": "Dhubri Kvk",
+    "code": "99378"
+  },
+  {
+    "state": "Assam",
+    "area": "Dibrugarh",
+    "code": "42314"
+  },
+  {
+    "state": "Assam",
+    "area": "Dudhnoi",
+    "code": "99379"
+  },
+  {
+    "state": "Assam",
+    "area": "Goalpara",
+    "code": "42407"
+  },
+  {
+    "state": "Assam",
+    "area": "Golaghat",
+    "code": "42420"
+  },
+  {
+    "state": "Assam",
+    "area": "Guwahati",
+    "code": "42410"
+  },
+  {
+    "state": "Assam",
+    "area": "Guwahati-dispur",
+    "code": "99979"
+  },
+  {
+    "state": "Assam",
+    "area": "Guwahati-iit Guwahati",
+    "code": "99987"
+  },
+  {
+    "state": "Assam",
+    "area": "Hailakandi",
+    "code": "99380"
+  },
+  {
+    "state": "Assam",
+    "area": "Jorhat",
+    "code": "42423"
+  },
+  {
+    "state": "Assam",
+    "area": "Kaziranga",
+    "code": "88825"
+  },
+  {
+    "state": "Assam",
+    "area": "Lumding",
+    "code": "42523"
+  },
+  {
+    "state": "Assam",
+    "area": "Mangaldoi",
+    "code": "99377"
+  },
+  {
+    "state": "Assam",
+    "area": "Mazbat",
+    "code": "42413"
+  },
+  {
+    "state": "Assam",
+    "area": "Nagaon",
+    "code": "88826"
+  },
+  {
+    "state": "Assam",
+    "area": "Nalbari",
+    "code": "88827"
+  },
+  {
+    "state": "Assam",
+    "area": "North Lakhimpur",
+    "code": "42309"
+  },
+  {
+    "state": "Assam",
+    "area": "Sibsagar",
+    "code": "42311"
+  },
+  {
+    "state": "Assam",
+    "area": "Silchar",
+    "code": "42619"
+  },
+  {
+    "state": "Assam",
+    "area": "Tezpur",
+    "code": "42415"
+  },
+  {
+    "state": "Assam",
+    "area": "Tinsukia",
+    "code": "42317"
+  },
+  {
+    "state": "Assam",
+    "area": "Udi",
+    "code": "99381"
+  },
+  {
+    "state": "Bihar",
+    "area": "Agriculture University",
+    "code": "99386"
+  },
+  {
+    "state": "Bihar",
+    "area": "Araria",
+    "code": "99382"
+  },
+  {
+    "state": "Bihar",
+    "area": "Aurangabad",
+    "code": "50003"
+  },
+  {
+    "state": "Bihar",
+    "area": "Aurangabad Bh Kvk",
+    "code": "99383"
+  },
+  {
+    "state": "Bihar",
+    "area": "Banka",
+    "code": "99384"
+  },
+  {
+    "state": "Bihar",
+    "area": "Begusarai",
+    "code": "99385"
+  },
+  {
+    "state": "Bihar",
+    "area": "Bhagalpur",
+    "code": "42498"
+  },
+  {
+    "state": "Bihar",
+    "area": "Bodhgaya",
+    "code": "30027"
+  },
+  {
+    "state": "Bihar",
+    "area": "Chapra",
+    "code": "42488"
+  },
+  {
+    "state": "Bihar",
+    "area": "East Champaran",
+    "code": "99387"
+  },
+  {
+    "state": "Bihar",
+    "area": "Farbesganj",
+    "code": "42395"
+  },
+  {
+    "state": "Bihar",
+    "area": "Gaya",
+    "code": "42591"
+  },
+  {
+    "state": "Bihar",
+    "area": "Jamui",
+    "code": "99388"
+  },
+  {
+    "state": "Bihar",
+    "area": "Katihar",
+    "code": "99389"
+  },
+  {
+    "state": "Bihar",
+    "area": "Khagaria",
+    "code": "99390"
+  },
+  {
+    "state": "Bihar",
+    "area": "Madhubani",
+    "code": "50001"
+  },
+  {
+    "state": "Bihar",
+    "area": "Motihari",
+    "code": "42383"
+  },
+  {
+    "state": "Bihar",
+    "area": "Muzaffarpur",
+    "code": "42387"
+  },
+  {
+    "state": "Bihar",
+    "area": "Nalanda",
+    "code": "50002"
+  },
+  {
+    "state": "Bihar",
+    "area": "Nawada",
+    "code": "99392"
+  },
+  {
+    "state": "Bihar",
+    "area": "Patna-airport",
+    "code": "42492"
+  },
+  {
+    "state": "Bihar",
+    "area": "Patna-city",
+    "code": "99986"
+  },
+  {
+    "state": "Bihar",
+    "area": "Purnea",
+    "code": "42500"
+  },
+  {
+    "state": "Bihar",
+    "area": "Purnea Kvk",
+    "code": "99393"
+  },
+  {
+    "state": "Bihar",
+    "area": "Rajgir",
+    "code": "50004"
+  },
+  {
+    "state": "Bihar",
+    "area": "Saraiya",
+    "code": "99391"
+  },
+  {
+    "state": "Bihar",
+    "area": "Sheikpura",
+    "code": "99394"
+  },
+  {
+    "state": "Bihar",
+    "area": "Sitamarhi Kvk",
+    "code": "99395"
+  },
+  {
+    "state": "Bihar",
+    "area": "Supaul",
+    "code": "42393"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Ambikapur",
+    "code": "42693"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Balod",
+    "code": "100243"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Bhatapara",
+    "code": "100244"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Bijapur",
+    "code": "99396"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Bilaspur",
+    "code": "60002"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Dantewada",
+    "code": "99397"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Dhamtari",
+    "code": "100245"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Dumarbahar",
+    "code": "99398"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Durg",
+    "code": "42876"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Jagdalpur",
+    "code": "43041"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Kanker",
+    "code": "99399"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Kawaradha",
+    "code": "100246"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Koriya",
+    "code": "99401"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Kurud",
+    "code": "100247"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Lakhanpur",
+    "code": "99400"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Mahasamund",
+    "code": "99402"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Mungeli",
+    "code": "100248"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Narayanpur",
+    "code": "99403"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Navapara",
+    "code": "100249"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Patelpali Raigarh",
+    "code": "100250"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Pendra",
+    "code": "42779"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Raipur-labhandi",
+    "code": "99974"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Raipur-lalpur",
+    "code": "42874"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Raipur-mana",
+    "code": "42872"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Rajim",
+    "code": "100251"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Rajnandagaon Kvk",
+    "code": "99404"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Rajnandgaon",
+    "code": "42948"
+  },
+  {
+    "state": "Chhatisgarh",
+    "area": "Simlapal",
+    "code": "100242"
+  },
+  {
+    "state": "Delhi",
+    "area": "Jafarpur",
+    "code": "90142"
+  },
+  {
+    "state": "Delhi",
+    "area": "Mungeshpur",
+    "code": "90143"
+  },
+  {
+    "state": "Delhi",
+    "area": "Najafgarh",
+    "code": "90144"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-ayanagar",
+    "code": "42180"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-delhi University",
+    "code": "99921"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-lodi Road",
+    "code": "99923"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-narela",
+    "code": "99922"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-palam",
+    "code": "42181"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-ridge",
+    "code": "42184"
+  },
+  {
+    "state": "Delhi",
+    "area": "New Delhi-safdarjung",
+    "code": "42182"
+  },
+  {
+    "state": "Delhi",
+    "area": "Pitampura",
+    "code": "90145"
+  },
+  {
+    "state": "Delhi",
+    "area": "Pusa",
+    "code": "90141"
+  },
+  {
+    "state": "Delhi",
+    "area": "Salwan Public School",
+    "code": "90146"
+  },
+  {
+    "state": "Diu",
+    "area": "Diu",
+    "code": "42914"
+  },
+  {
+    "state": "Goa",
+    "area": "Ela North Goa",
+    "code": "99406"
+  },
+  {
+    "state": "Goa",
+    "area": "Madgaon",
+    "code": "99407"
+  },
+  {
+    "state": "Goa",
+    "area": "Panjim",
+    "code": "43192"
+  },
+  {
+    "state": "Goa",
+    "area": "Panjim-mapusa",
+    "code": "99984"
+  },
+  {
+    "state": "Goa",
+    "area": "Panjim-old Goa",
+    "code": "99985"
+  },
+  {
+    "state": "Goa",
+    "area": "Panjim-pernem",
+    "code": "99983"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad",
+    "code": "42647"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-airport",
+    "code": "99935"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-ambli-bopal",
+    "code": "99956"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-chandkheda",
+    "code": "99938"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-gift City, Gandhi Nagar",
+    "code": "99960"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-iiph, Gandhi Nagar",
+    "code": "99959"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-navrangpura (s.p.stadium)",
+    "code": "99936"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-pirana",
+    "code": "99958"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-raikhad",
+    "code": "99957"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-rakhiyal",
+    "code": "99937"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Ahmedabad-satellite Area (isro-sac)",
+    "code": "99939"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Amreli",
+    "code": "42834"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Amreli Kvk",
+    "code": "99408"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Baroda",
+    "code": "42748"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Bhavnagar",
+    "code": "42838"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Bhuj",
+    "code": "42634"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Chhotaudepur",
+    "code": "99409"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Dadra & Nagar Haveli",
+    "code": "99964"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Dahod",
+    "code": "99410"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Daman",
+    "code": "42916"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Dang",
+    "code": "99411"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Deesa",
+    "code": "42539"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Dwarka",
+    "code": "42731"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "code": "42654"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Himmatnagar",
+    "code": "100252"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Jamnagar",
+    "code": "99412"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Junagarh",
+    "code": "88819"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Kandla",
+    "code": "42639"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Naliya",
+    "code": "42631"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Narmada",
+    "code": "99413"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Okha",
+    "code": "42730"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Panchmahal Kvk",
+    "code": "99414"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Patan",
+    "code": "88818"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Porbandar",
+    "code": "42830"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Rajkot",
+    "code": "42737"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Sasan Gir",
+    "code": "88817"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Silvassa",
+    "code": "88816"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Surat",
+    "code": "42840"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Surat Kvk",
+    "code": "99415"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Vadali Apmc",
+    "code": "100253"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Valsad",
+    "code": "99416"
+  },
+  {
+    "state": "Gujarat",
+    "area": "Veraval",
+    "code": "42909"
+  },
+  {
+    "state": "Haryana",
+    "area": "Adampur",
+    "code": "100254"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ambala",
+    "code": "42103"
+  },
+  {
+    "state": "Haryana",
+    "area": "Asandh",
+    "code": "100255"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ateli Apmc",
+    "code": "100256"
+  },
+  {
+    "state": "Haryana",
+    "area": "Bhattu Kalan Apmc",
+    "code": "100257"
+  },
+  {
+    "state": "Haryana",
+    "area": "Bhiwani",
+    "code": "42350"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ch Dadri",
+    "code": "100258"
+  },
+  {
+    "state": "Haryana",
+    "area": "Chandigarh-airport",
+    "code": "99928"
+  },
+  {
+    "state": "Haryana",
+    "area": "Chandigarh-city",
+    "code": "42105"
+  },
+  {
+    "state": "Haryana",
+    "area": "Chandigarh-mohali",
+    "code": "99930"
+  },
+  {
+    "state": "Haryana",
+    "area": "Chandigarh-panchkula",
+    "code": "99929"
+  },
+  {
+    "state": "Haryana",
+    "area": "Cheeka",
+    "code": "100259"
+  },
+  {
+    "state": "Haryana",
+    "area": "Chhachhrauli",
+    "code": "100260"
+  },
+  {
+    "state": "Haryana",
+    "area": "Dabwali",
+    "code": "100261"
+  },
+  {
+    "state": "Haryana",
+    "area": "Damla",
+    "code": "99422"
+  },
+  {
+    "state": "Haryana",
+    "area": "Dhand",
+    "code": "100262"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ellanabad",
+    "code": "100263"
+  },
+  {
+    "state": "Haryana",
+    "area": "Faridabad",
+    "code": "10001"
+  },
+  {
+    "state": "Haryana",
+    "area": "Fatehabad",
+    "code": "100264"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ferozpur Jhirka Apmc",
+    "code": "100265"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ganaur",
+    "code": "100266"
+  },
+  {
+    "state": "Haryana",
+    "area": "Gohana",
+    "code": "100267"
+  },
+  {
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "code": "42178"
+  },
+  {
+    "state": "Haryana",
+    "area": "Gurgaon Kvk",
+    "code": "99417"
+  },
+  {
+    "state": "Haryana",
+    "area": "Hissar",
+    "code": "42131"
+  },
+  {
+    "state": "Haryana",
+    "area": "Hodal",
+    "code": "100268"
+  },
+  {
+    "state": "Haryana",
+    "area": "Indri",
+    "code": "100269"
+  },
+  {
+    "state": "Haryana",
+    "area": "Indri Kvk",
+    "code": "99418"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ismailabad",
+    "code": "100270"
+  },
+  {
+    "state": "Haryana",
+    "area": "Israna Apmc",
+    "code": "100271"
+  },
+  {
+    "state": "Haryana",
+    "area": "Jagadhri Apmc",
+    "code": "100272"
+  },
+  {
+    "state": "Haryana",
+    "area": "Jagdishpur",
+    "code": "99421"
+  },
+  {
+    "state": "Haryana",
+    "area": "Jakhal",
+    "code": "100273"
+  },
+  {
+    "state": "Haryana",
+    "area": "Jhajjar",
+    "code": "100274"
+  },
+  {
+    "state": "Haryana",
+    "area": "Jind",
+    "code": "100275"
+  },
+  {
+    "state": "Haryana",
+    "area": "Julana",
+    "code": "100276"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kaithal",
+    "code": "100277"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kalanwali",
+    "code": "100278"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kalayat",
+    "code": "100279"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kanina Apmc",
+    "code": "100280"
+  },
+  {
+    "state": "Haryana",
+    "area": "Karnal",
+    "code": "42137"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kosli Apmc",
+    "code": "100281"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kurukshetra",
+    "code": "99915"
+  },
+  {
+    "state": "Haryana",
+    "area": "Kurukshetra Kvk",
+    "code": "99419"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ladwa",
+    "code": "100282"
+  },
+  {
+    "state": "Haryana",
+    "area": "Madlauda",
+    "code": "100283"
+  },
+  {
+    "state": "Haryana",
+    "area": "Mahendragarh Kvk",
+    "code": "99420"
+  },
+  {
+    "state": "Haryana",
+    "area": "Meham Apmc",
+    "code": "100284"
+  },
+  {
+    "state": "Haryana",
+    "area": "Mohindergarh Apmc",
+    "code": "100285"
+  },
+  {
+    "state": "Haryana",
+    "area": "Mullana",
+    "code": "100286"
+  },
+  {
+    "state": "Haryana",
+    "area": "Naraingarh Apmc",
+    "code": "100287"
+  },
+  {
+    "state": "Haryana",
+    "area": "Narnaul",
+    "code": "42177"
+  },
+  {
+    "state": "Haryana",
+    "area": "Narnaund",
+    "code": "100288"
+  },
+  {
+    "state": "Haryana",
+    "area": "Narwana",
+    "code": "100289"
+  },
+  {
+    "state": "Haryana",
+    "area": "Nigdhu Apmc",
+    "code": "100290"
+  },
+  {
+    "state": "Haryana",
+    "area": "Nissing",
+    "code": "100291"
+  },
+  {
+    "state": "Haryana",
+    "area": "Nuh Apmc",
+    "code": "100292"
+  },
+  {
+    "state": "Haryana",
+    "area": "Pai Apmc",
+    "code": "100293"
+  },
+  {
+    "state": "Haryana",
+    "area": "Palwal",
+    "code": "100294"
+  },
+  {
+    "state": "Haryana",
+    "area": "Panchkula Apmc",
+    "code": "100295"
+  },
+  {
+    "state": "Haryana",
+    "area": "Panipat",
+    "code": "30025"
+  },
+  {
+    "state": "Haryana",
+    "area": "Pehowa",
+    "code": "100296"
+  },
+  {
+    "state": "Haryana",
+    "area": "Pillukhera",
+    "code": "100297"
+  },
+  {
+    "state": "Haryana",
+    "area": "Pundri",
+    "code": "100298"
+  },
+  {
+    "state": "Haryana",
+    "area": "Punhana Apmc",
+    "code": "100299"
+  },
+  {
+    "state": "Haryana",
+    "area": "Raipur Rani Apmc",
+    "code": "100300"
+  },
+  {
+    "state": "Haryana",
+    "area": "Rania",
+    "code": "100301"
+  },
+  {
+    "state": "Haryana",
+    "area": "Ratia",
+    "code": "100302"
+  },
+  {
+    "state": "Haryana",
+    "area": "Rewari",
+    "code": "100303"
+  },
+  {
+    "state": "Haryana",
+    "area": "Rohtak",
+    "code": "42176"
+  },
+  {
+    "state": "Haryana",
+    "area": "Sadhaura Apmc",
+    "code": "100304"
+  },
+  {
+    "state": "Haryana",
+    "area": "Safidon",
+    "code": "100305"
+  },
+  {
+    "state": "Haryana",
+    "area": "Samalkha",
+    "code": "100306"
+  },
+  {
+    "state": "Haryana",
+    "area": "Shahbad",
+    "code": "100307"
+  },
+  {
+    "state": "Haryana",
+    "area": "Shahzadpur Apmc",
+    "code": "100308"
+  },
+  {
+    "state": "Haryana",
+    "area": "Sirsa",
+    "code": "99916"
+  },
+  {
+    "state": "Haryana",
+    "area": "Siwani",
+    "code": "100309"
+  },
+  {
+    "state": "Haryana",
+    "area": "Sonepat",
+    "code": "100310"
+  },
+  {
+    "state": "Haryana",
+    "area": "Tauru Apmc",
+    "code": "100311"
+  },
+  {
+    "state": "Haryana",
+    "area": "Tohana",
+    "code": "100312"
+  },
+  {
+    "state": "Haryana",
+    "area": "Uchana",
+    "code": "100313"
+  },
+  {
+    "state": "Haryana",
+    "area": "Uklana Apmc",
+    "code": "100314"
+  },
+  {
+    "state": "Haryana",
+    "area": "Yamuna Nagar Apmc",
+    "code": "100315"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Allain Duhangan",
+    "code": "101000"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Baira Siul",
+    "code": "101001"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Bajoli Holi",
+    "code": "101002"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Baspa",
+    "code": "101003"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Bilaspur",
+    "code": "42080"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Bilaspur Kvk",
+    "code": "99423"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Budhil",
+    "code": "101004"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Chamba",
+    "code": "8205"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Chamba Saru Farm",
+    "code": "99424"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Chamera-iii",
+    "code": "101005"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Chanju-i",
+    "code": "101006"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Dalhousie",
+    "code": "42059"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Dharamshala",
+    "code": "42062"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Hamirpur",
+    "code": "11001"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Integrated Kashang",
+    "code": "101011"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Kalpa",
+    "code": "42066"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Kangra",
+    "code": "42076"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Karcham Wangtoo",
+    "code": "101014"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Kasauli",
+    "code": "88814"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Keylong",
+    "code": "42063"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Kullu",
+    "code": "42081"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Kutehr",
+    "code": "101017"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Malana",
+    "code": "101018"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Malana-ii",
+    "code": "101019"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Manali",
+    "code": "42065"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Nahan",
+    "code": "42104"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Nathpa Jhakri",
+    "code": "101023"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Parbati St. Ii",
+    "code": "101026"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sainj",
+    "code": "101030"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sanjay (bhaba)",
+    "code": "101031"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sawra Kuddu",
+    "code": "101032"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Shanan",
+    "code": "101034"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Shimla-airport",
+    "code": "42084"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Shimla-city",
+    "code": "42083"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Shongtong Karcham",
+    "code": "101035"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sirmour Dhulakuan",
+    "code": "99426"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Solan",
+    "code": "42106"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sorang",
+    "code": "101038"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Spiti Valley",
+    "code": "88815"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sundernagar",
+    "code": "42079"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Sundernagar Kvk",
+    "code": "99425"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Tidong-i",
+    "code": "101043"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "area": "Una",
+    "code": "42077"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Anantnag",
+    "code": "90020"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Banihal",
+    "code": "42045"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Baramulla",
+    "code": "99427"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Batote",
+    "code": "42043"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Bhaderwah",
+    "code": "42048"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Gulmarg",
+    "code": "42026"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Jammu-airport",
+    "code": "99981"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Jammu-city",
+    "code": "42056"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Jammu-mata Vaishno Devi Ji",
+    "code": "99980"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Kathua",
+    "code": "99428"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Katra",
+    "code": "42054"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Kishanganga",
+    "code": "101016"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Kukernag",
+    "code": "42046"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Kupwara",
+    "code": "42031"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Kupwara Kvk",
+    "code": "99429"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Mirpur",
+    "code": "88803"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Muzaffarabad",
+    "code": "99996"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Narwal",
+    "code": "100316"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Pahalgam",
+    "code": "42028"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Pakal Dul",
+    "code": "101025"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Parimpora Sgr",
+    "code": "100317"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Patanitop",
+    "code": "30004"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Qazigund",
+    "code": "42044"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Reasi Kvk",
+    "code": "99430"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Sewa-ii",
+    "code": "101033"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Srinagar-airport",
+    "code": "99975"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Srinagar-city",
+    "code": "42027"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Srinagar-dal Lake",
+    "code": "99976"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Udhampur",
+    "code": "90027"
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "area": "Upper Sindh-ii",
+    "code": "101044"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Baidyanathdham",
+    "code": "30026"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Bano Simdega",
+    "code": "99446"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Bokaro",
+    "code": "13001"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Bokaro Kvk",
+    "code": "99431"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Chaibasa",
+    "code": "42795"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Chakulia",
+    "code": "100001"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Chatra",
+    "code": "99432"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Daltonganj",
+    "code": "42587"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Deogarh",
+    "code": "13002"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Dhanbad",
+    "code": "100002"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Diyakel Khunti",
+    "code": "99439"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Dumka",
+    "code": "42599"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Garhwa",
+    "code": "100003"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Garhwa Kvk",
+    "code": "99434"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Giridih",
+    "code": "13003"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Giridih Bengabad",
+    "code": "99435"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Godda",
+    "code": "99436"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Gumla",
+    "code": "100004"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Gumla Bishnupur",
+    "code": "99437"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Hazaribag Kvk",
+    "code": "99438"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Hazaribagh",
+    "code": "100005"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Jagannathpur Bau",
+    "code": "99447"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Jamshedpur",
+    "code": "42798"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Koderma",
+    "code": "100006"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Latehar Balumath",
+    "code": "99440"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Lohardaga",
+    "code": "100007"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Lohardaga Kvk",
+    "code": "99441"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Pakur",
+    "code": "100008"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Pakur Kvk",
+    "code": "99442"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Palamu Daltongunj",
+    "code": "99443"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Ramgarh",
+    "code": "100009"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Ramgarh Kvk",
+    "code": "99444"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Ranchi",
+    "code": "42701"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Ranchi-kanke",
+    "code": "99950"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Sahebganj",
+    "code": "100010"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Sahibganj Kvk",
+    "code": "99445"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Simdega",
+    "code": "100011"
+  },
+  {
+    "state": "Jharkhand",
+    "area": "Sujani",
+    "code": "99433"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Agumbe",
+    "code": "43257"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Apmc Chincholi",
+    "code": "100012"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Badami",
+    "code": "88820"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bagalkot",
+    "code": "99448"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Ballari",
+    "code": "43205"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Belagavi",
+    "code": "43198"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bengaluru Hal Airport",
+    "code": "43296"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bengaluru International Airport",
+    "code": "99962"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bengaluru-city",
+    "code": "43295"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bengaluru-gkvk",
+    "code": "99963"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Bidar",
+    "code": "43125"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Chandurayanghalli",
+    "code": "99457"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Chitradurga",
+    "code": "43233"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Dharwad",
+    "code": "43200"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Gadag",
+    "code": "43201"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Gangavathi",
+    "code": "99455"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Gokarna",
+    "code": "88821"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Gonikoppal",
+    "code": "99453"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Hagari",
+    "code": "99449"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Hampi",
+    "code": "88822"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Hanuman Matti",
+    "code": "99452"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Hardanhally",
+    "code": "99450"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Hassan",
+    "code": "43263"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Honnavar",
+    "code": "43226"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Kalaburgi",
+    "code": "43121"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Karwar",
+    "code": "43225"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Kawadimatti",
+    "code": "99459"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Konehalli",
+    "code": "99458"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Madikeri",
+    "code": "43287"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Mandya",
+    "code": "43289"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Mandya Kvk",
+    "code": "99456"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Mangaluru",
+    "code": "43284"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Mudigere",
+    "code": "99451"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Mysuru",
+    "code": "43291"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Raichur",
+    "code": "43169"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Tamaka",
+    "code": "99454"
+  },
+  {
+    "state": "Karnataka",
+    "area": "Vijayapura",
+    "code": "43161"
+  },
+  {
+    "state": "Kerala",
+    "area": "Alappuzha",
+    "code": "43352"
+  },
+  {
+    "state": "Kerala",
+    "area": "Bekal",
+    "code": "30007"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kannur",
+    "code": "43315"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kochi",
+    "code": "43353"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kollam",
+    "code": "30008"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kottarakkara",
+    "code": "99460"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kottayam",
+    "code": "43355"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kozhikode",
+    "code": "43314"
+  },
+  {
+    "state": "Kerala",
+    "area": "Kumarakom",
+    "code": "90059"
+  },
+  {
+    "state": "Kerala",
+    "area": "Munnar",
+    "code": "90060"
+  },
+  {
+    "state": "Kerala",
+    "area": "Palakkad",
+    "code": "30029"
+  },
+  {
+    "state": "Kerala",
+    "area": "Pattambi",
+    "code": "99462"
+  },
+  {
+    "state": "Kerala",
+    "area": "Punalur",
+    "code": "43354"
+  },
+  {
+    "state": "Kerala",
+    "area": "Thavanur",
+    "code": "99461"
+  },
+  {
+    "state": "Kerala",
+    "area": "Thiruvananthapuram-airport",
+    "code": "43372"
+  },
+  {
+    "state": "Kerala",
+    "area": "Thiruvananthapuram-city",
+    "code": "43371"
+  },
+  {
+    "state": "Kerala",
+    "area": "Varkala",
+    "code": "30010"
+  },
+  {
+    "state": "Kerala",
+    "area": "Vellanikara",
+    "code": "90061"
+  },
+  {
+    "state": "Kerala",
+    "area": "Wayanad",
+    "code": "30011"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Chutak",
+    "code": "101008"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Diskit Nubra",
+    "code": "30003"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Gilgit",
+    "code": "99990"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Kargil",
+    "code": "88832"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Kiru",
+    "code": "101015"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Leh",
+    "code": "42034"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Nimoo Bazgo",
+    "code": "101024"
+  },
+  {
+    "state": "Ladakh UT",
+    "area": "Skardu",
+    "code": "99991"
+  },
+  {
+    "state": "Lakshadweep",
+    "area": "Agati",
+    "code": "43266"
+  },
+  {
+    "state": "Lakshadweep",
+    "area": "Amini Divi",
+    "code": "43311"
+  },
+  {
+    "state": "Lakshadweep",
+    "area": "Kavarati",
+    "code": "43337"
+  },
+  {
+    "state": "Lakshadweep",
+    "area": "Kavaratti Kvk",
+    "code": "99463"
+  },
+  {
+    "state": "Lakshadweep",
+    "area": "Minicoy",
+    "code": "43369"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Agar",
+    "code": "100318"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Aonwari Kvk",
+    "code": "99464"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Aron",
+    "code": "99469"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Ashta",
+    "code": "100319"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Balaghat",
+    "code": "100320"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Bareli",
+    "code": "100321"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Betul",
+    "code": "42860"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Bhopal-airport",
+    "code": "99977"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Bhopal-arera Hills",
+    "code": "42667"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Bhopal-nabi Bagh",
+    "code": "99978"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Biaora",
+    "code": "100322"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Bina",
+    "code": "100323"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Burhanpur",
+    "code": "100324"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Chhindwara",
+    "code": "100325"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Chitrakoot",
+    "code": "30012"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Dabra",
+    "code": "100326"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Damoh",
+    "code": "100327"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Datia",
+    "code": "100328"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Deora",
+    "code": "99477"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Dhar",
+    "code": "42752"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Gadarwara",
+    "code": "100329"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Guna",
+    "code": "42559"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Gwalior",
+    "code": "42361"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Harda",
+    "code": "100330"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "code": "42754"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Itarsi",
+    "code": "100331"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "code": "42675"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Jaora",
+    "code": "100332"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Kalyanpur",
+    "code": "99475"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Katni",
+    "code": "100333"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khajuraho",
+    "code": "42567"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khandwa",
+    "code": "42855"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khandwa Kvk",
+    "code": "99471"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khargone",
+    "code": "100334"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khategaon",
+    "code": "100335"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Khirkiya",
+    "code": "100336"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-anjad",
+    "code": "100337"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-badwaha",
+    "code": "100338"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-banapura",
+    "code": "100339"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-bhikangaon",
+    "code": "100340"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-kareli",
+    "code": "100341"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-karhi",
+    "code": "100342"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-kukshi",
+    "code": "100343"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-nasrullaganj",
+    "code": "100344"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-pandhurna",
+    "code": "100345"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-sanawad",
+    "code": "100346"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-saunsar",
+    "code": "100347"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-singrauli",
+    "code": "100348"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Krishi Upaj Mandi Samiti-udaipura",
+    "code": "100349"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Madiyahar",
+    "code": "99468"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Mandla",
+    "code": "42776"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Mandsaur",
+    "code": "100350"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Marukheda",
+    "code": "99472"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Mhow",
+    "code": "100351"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Neemuch",
+    "code": "100352"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Nowgong",
+    "code": "99467"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Orchha",
+    "code": "30013"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Pachmarhi",
+    "code": "42767"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Pala",
+    "code": "99465"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Pipariya",
+    "code": "100353"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Piparsama",
+    "code": "99476"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Pipraundh",
+    "code": "99470"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Rajgarh",
+    "code": "99473"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Ratlam",
+    "code": "100354"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Rewa",
+    "code": "42574"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Rewa Kvk",
+    "code": "99474"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Sagar",
+    "code": "42671"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Sanchi",
+    "code": "30014"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Satna",
+    "code": "42571"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Sendhwa",
+    "code": "100355"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Seoni",
+    "code": "42771"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Shajapur",
+    "code": "100356"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Sheopurkalan",
+    "code": "100357"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Shivpuri",
+    "code": "42459"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Shujalpur",
+    "code": "100358"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Talun",
+    "code": "99466"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Tikamgarh",
+    "code": "100359"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Timarni",
+    "code": "100360"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Ujjain",
+    "code": "42662"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "area": "Umaria",
+    "code": "42679"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Aatpadi",
+    "code": "100361"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Aheri",
+    "code": "100362"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Ahmednagar",
+    "code": "43009"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Akola",
+    "code": "42933"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Alibag",
+    "code": "43058"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Amalner",
+    "code": "100363"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Amravati",
+    "code": "42937"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Arjuni Morgoan",
+    "code": "100364"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Aurangabad",
+    "code": "43014"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Aurangabad Mh Kvk",
+    "code": "99478"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Ausa",
+    "code": "100365"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Baramati",
+    "code": "100366"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Beed",
+    "code": "43011"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Brahmapuri",
+    "code": "42946"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Buldhana",
+    "code": "42931"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Buldhana Kvk",
+    "code": "99480"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Chamorshi",
+    "code": "100367"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Chandrapur",
+    "code": "43029"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Chandvad",
+    "code": "100368"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Chikhali",
+    "code": "100369"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Chinchwad",
+    "code": "31002"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Dahanu",
+    "code": "43001"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Devala",
+    "code": "100370"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Digras",
+    "code": "100371"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Dondaicha",
+    "code": "100372"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Dound",
+    "code": "100373"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Gadchiroli",
+    "code": "42947"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Gadchiroli Kvk",
+    "code": "99481"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Gevrai",
+    "code": "100374"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Gondia",
+    "code": "42871"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Harnai",
+    "code": "43109"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Hingoli",
+    "code": "100188"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Jalgaon",
+    "code": "42851"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Jalna",
+    "code": "100547"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Jeur",
+    "code": "43071"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Kannad",
+    "code": "100375"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Karanjkhop",
+    "code": "101089"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Kolhapur",
+    "code": "43157"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Lavale",
+    "code": "31004"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Lonand",
+    "code": "100376"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Magarpatta",
+    "code": "31003"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mahabaleshwar",
+    "code": "43111"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Malegaon",
+    "code": "42925"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mangalwedha",
+    "code": "100377"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mangrulpeer",
+    "code": "100378"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Manora",
+    "code": "100379"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mohol",
+    "code": "99486"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-borivali",
+    "code": "99941"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-chembur",
+    "code": "99943"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-colaba",
+    "code": "43057"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-mulund",
+    "code": "99944"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-powai",
+    "code": "99942"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-santacruz",
+    "code": "43003"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Mumbai-worli",
+    "code": "99945"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nagpur Kvk",
+    "code": "99482"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nagpur-college Of Agriculture",
+    "code": "99982"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nagpur-sonegaon Airport",
+    "code": "42867"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nanded",
+    "code": "43021"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nandurbar",
+    "code": "100380"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nandurbar Kvk",
+    "code": "99483"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Nasik",
+    "code": "42921"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Navi Mumbai (panvel)",
+    "code": "99940"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Osmanabad",
+    "code": "43075"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Palghar",
+    "code": "99485"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Parbhani",
+    "code": "43017"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Partur",
+    "code": "100548"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Pune-lohegaon Airport",
+    "code": "43064"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Pune-pashan",
+    "code": "43067"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Pune-shivajinagar",
+    "code": "43063"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Ratnagiri",
+    "code": "43110"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Risod",
+    "code": "100381"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Sakoli",
+    "code": "99479"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Sangli",
+    "code": "43158"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Satara",
+    "code": "43113"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Sholapur",
+    "code": "43117"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Sindi",
+    "code": "100382"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Thane",
+    "code": "18001"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Tulga",
+    "code": "99484"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Tumsar",
+    "code": "100549"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Udgir",
+    "code": "43076"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Varora",
+    "code": "100383"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Vengurla",
+    "code": "43193"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Wardha",
+    "code": "42939"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Washim",
+    "code": "100384"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Washim",
+    "code": "42935"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Washim Kvk",
+    "code": "99487"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Yeola",
+    "code": "100385"
+  },
+  {
+    "state": "Maharashtra",
+    "area": "Yeotmal",
+    "code": "42943"
+  },
+  {
+    "state": "Manipur",
+    "area": "Chandel",
+    "code": "99488"
+  },
+  {
+    "state": "Manipur",
+    "area": "Imphal",
+    "code": "42623"
+  },
+  {
+    "state": "Meghalaya",
+    "area": "Cherrapunji",
+    "code": "42515"
+  },
+  {
+    "state": "Meghalaya",
+    "area": "Nongstoin",
+    "code": "99490"
+  },
+  {
+    "state": "Meghalaya",
+    "area": "Shillong",
+    "code": "42516"
+  },
+  {
+    "state": "Meghalaya",
+    "area": "Tura",
+    "code": "99489"
+  },
+  {
+    "state": "Mizoram",
+    "area": "Aizwal",
+    "code": "42726"
+  },
+  {
+    "state": "Mizoram",
+    "area": "Aizwal-lengpui",
+    "code": "42727"
+  },
+  {
+    "state": "Mizoram",
+    "area": "Champhai",
+    "code": "19001"
+  },
+  {
+    "state": "Mizoram",
+    "area": "Lengpui Kvk",
+    "code": "99491"
+  },
+  {
+    "state": "Mizoram",
+    "area": "Lunglei",
+    "code": "88828"
+  },
+  {
+    "state": "Nagaland",
+    "area": "Kohima",
+    "code": "42527"
+  },
+  {
+    "state": "Nagaland",
+    "area": "Kohima-dimapur",
+    "code": "21001"
+  },
+  {
+    "state": "Nagaland",
+    "area": "Mokokchung",
+    "code": "21002"
+  },
+  {
+    "state": "Nagaland",
+    "area": "Mokokchung Kvk",
+    "code": "99492"
+  },
+  {
+    "state": "Nagaland",
+    "area": "Zunheboto Kvk",
+    "code": "99493"
+  },
+  {
+    "state": "Orissa",
+    "area": "Anandapur",
+    "code": "100386"
+  },
+  {
+    "state": "Orissa",
+    "area": "Angul",
+    "code": "42969"
+  },
+  {
+    "state": "Orissa",
+    "area": "Angul Kvk",
+    "code": "99494"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bahadajhola",
+    "code": "100387"
+  },
+  {
+    "state": "Orissa",
+    "area": "Balangir Kvk",
+    "code": "99495"
+  },
+  {
+    "state": "Orissa",
+    "area": "Balasore",
+    "code": "42895"
+  },
+  {
+    "state": "Orissa",
+    "area": "Balugaon",
+    "code": "100388"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bargarh",
+    "code": "93256"
+  },
+  {
+    "state": "Orissa",
+    "area": "Baripada",
+    "code": "100390"
+  },
+  {
+    "state": "Orissa",
+    "area": "Baripada",
+    "code": "42894"
+  },
+  {
+    "state": "Orissa",
+    "area": "Betnoti",
+    "code": "100391"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhabanipatna",
+    "code": "23001"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhadrak",
+    "code": "100392"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhadrak (ranital)",
+    "code": "10002"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhubneshwar-airport",
+    "code": "42971"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhubneshwar-cuttack",
+    "code": "42970"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bhubneshwar-ouat",
+    "code": "99949"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bolangir",
+    "code": "42963"
+  },
+  {
+    "state": "Orissa",
+    "area": "Bonai",
+    "code": "100393"
+  },
+  {
+    "state": "Orissa",
+    "area": "Boudh",
+    "code": "42964"
+  },
+  {
+    "state": "Orissa",
+    "area": "Chandbali",
+    "code": "42973"
+  },
+  {
+    "state": "Orissa",
+    "area": "Chhatrapur",
+    "code": "43048"
+  },
+  {
+    "state": "Orissa",
+    "area": "Cuttack Kvk",
+    "code": "99496"
+  },
+  {
+    "state": "Orissa",
+    "area": "Deogarh",
+    "code": "93255"
+  },
+  {
+    "state": "Orissa",
+    "area": "Dhenkanal",
+    "code": "42881"
+  },
+  {
+    "state": "Orissa",
+    "area": "Dunguripali",
+    "code": "100395"
+  },
+  {
+    "state": "Orissa",
+    "area": "Gajapati1",
+    "code": "99497"
+  },
+  {
+    "state": "Orissa",
+    "area": "Gajapati2",
+    "code": "99498"
+  },
+  {
+    "state": "Orissa",
+    "area": "Gopalpur",
+    "code": "43049"
+  },
+  {
+    "state": "Orissa",
+    "area": "Gunupur",
+    "code": "100396"
+  },
+  {
+    "state": "Orissa",
+    "area": "Gunupur Kvk",
+    "code": "99503"
+  },
+  {
+    "state": "Orissa",
+    "area": "Jagatsinghpur",
+    "code": "93260"
+  },
+  {
+    "state": "Orissa",
+    "area": "Jagatsinghpur Kvk",
+    "code": "99499"
+  },
+  {
+    "state": "Orissa",
+    "area": "Jajpur",
+    "code": "93252"
+  },
+  {
+    "state": "Orissa",
+    "area": "Jaleswar",
+    "code": "100399"
+  },
+  {
+    "state": "Orissa",
+    "area": "Jharsuguda",
+    "code": "42886"
+  },
+  {
+    "state": "Orissa",
+    "area": "Kendrapara",
+    "code": "93261"
+  },
+  {
+    "state": "Orissa",
+    "area": "Keonjhargarh",
+    "code": "42891"
+  },
+  {
+    "state": "Orissa",
+    "area": "Khordha",
+    "code": "88834"
+  },
+  {
+    "state": "Orissa",
+    "area": "Koraput",
+    "code": "43097"
+  },
+  {
+    "state": "Orissa",
+    "area": "Kuchinda",
+    "code": "100401"
+  },
+  {
+    "state": "Orissa",
+    "area": "Malkangiri",
+    "code": "100402"
+  },
+  {
+    "state": "Orissa",
+    "area": "Malkangiri",
+    "code": "43091"
+  },
+  {
+    "state": "Orissa",
+    "area": "Mayurbhanj",
+    "code": "99500"
+  },
+  {
+    "state": "Orissa",
+    "area": "Nabarangpur",
+    "code": "93258"
+  },
+  {
+    "state": "Orissa",
+    "area": "Nayagarh",
+    "code": "42972"
+  },
+  {
+    "state": "Orissa",
+    "area": "Nimapara",
+    "code": "100404"
+  },
+  {
+    "state": "Orissa",
+    "area": "Nuapada",
+    "code": "88833"
+  },
+  {
+    "state": "Orissa",
+    "area": "Padampur Od",
+    "code": "100405"
+  },
+  {
+    "state": "Orissa",
+    "area": "Panipolia",
+    "code": "99501"
+  },
+  {
+    "state": "Orissa",
+    "area": "Panposh",
+    "code": "100406"
+  },
+  {
+    "state": "Orissa",
+    "area": "Paradip",
+    "code": "42976"
+  },
+  {
+    "state": "Orissa",
+    "area": "Paralakhemundi",
+    "code": "100407"
+  },
+  {
+    "state": "Orissa",
+    "area": "Paralakhemundi",
+    "code": "43102"
+  },
+  {
+    "state": "Orissa",
+    "area": "Pulbani",
+    "code": "42966"
+  },
+  {
+    "state": "Orissa",
+    "area": "Puri",
+    "code": "43053"
+  },
+  {
+    "state": "Orissa",
+    "area": "Puri Kvk",
+    "code": "99502"
+  },
+  {
+    "state": "Orissa",
+    "area": "Rayagada",
+    "code": "43045"
+  },
+  {
+    "state": "Orissa",
+    "area": "Rayagada",
+    "code": "100408"
+  },
+  {
+    "state": "Orissa",
+    "area": "Rourkela",
+    "code": "42793"
+  },
+  {
+    "state": "Orissa",
+    "area": "Sambalpur",
+    "code": "42883"
+  },
+  {
+    "state": "Orissa",
+    "area": "Sonepur",
+    "code": "42882"
+  },
+  {
+    "state": "Orissa",
+    "area": "Sundergarh",
+    "code": "42792"
+  },
+  {
+    "state": "Orissa",
+    "area": "Tikabali",
+    "code": "100409"
+  },
+  {
+    "state": "Orissa",
+    "area": "Titlagarh",
+    "code": "42961"
+  },
+  {
+    "state": "Orissa",
+    "area": "Udala",
+    "code": "100410"
+  },
+  {
+    "state": "Pondicherry",
+    "area": "Pondicherry",
+    "code": "43328"
+  },
+  {
+    "state": "Pondicherry",
+    "area": "Puducherry Kvk",
+    "code": "99504"
+  },
+  {
+    "state": "Pondicherry",
+    "area": "Thattanchavady",
+    "code": "100411"
+  },
+  {
+    "state": "Punjab",
+    "area": "Abohar",
+    "code": "100412"
+  },
+  {
+    "state": "Punjab",
+    "area": "Amloh Apmc",
+    "code": "100413"
+  },
+  {
+    "state": "Punjab",
+    "area": "Amritsar",
+    "code": "42071"
+  },
+  {
+    "state": "Punjab",
+    "area": "Anandpur Sahib",
+    "code": "99917"
+  },
+  {
+    "state": "Punjab",
+    "area": "Barnala",
+    "code": "100414"
+  },
+  {
+    "state": "Punjab",
+    "area": "Bhatinda",
+    "code": "42097"
+  },
+  {
+    "state": "Punjab",
+    "area": "Bhikhi Apmc",
+    "code": "100415"
+  },
+  {
+    "state": "Punjab",
+    "area": "Budhlada Apmc",
+    "code": "100416"
+  },
+  {
+    "state": "Punjab",
+    "area": "Faridkot Apmc",
+    "code": "100417"
+  },
+  {
+    "state": "Punjab",
+    "area": "Fathegarh Sahib",
+    "code": "100418"
+  },
+  {
+    "state": "Punjab",
+    "area": "Fazilka",
+    "code": "100419"
+  },
+  {
+    "state": "Punjab",
+    "area": "Ferozepore",
+    "code": "42096"
+  },
+  {
+    "state": "Punjab",
+    "area": "Gidderbaha",
+    "code": "100420"
+  },
+  {
+    "state": "Punjab",
+    "area": "Gurdaspur Apmc",
+    "code": "100421"
+  },
+  {
+    "state": "Punjab",
+    "area": "Hoshiyarpur",
+    "code": "100422"
+  },
+  {
+    "state": "Punjab",
+    "area": "Jalandhar",
+    "code": "42075"
+  },
+  {
+    "state": "Punjab",
+    "area": "Kapurthala",
+    "code": "42074"
+  },
+  {
+    "state": "Punjab",
+    "area": "Khanna Apmc",
+    "code": "100423"
+  },
+  {
+    "state": "Punjab",
+    "area": "Kotkapura Apmc",
+    "code": "100424"
+  },
+  {
+    "state": "Punjab",
+    "area": "Ludhiana",
+    "code": "42099"
+  },
+  {
+    "state": "Punjab",
+    "area": "Malout Apmc",
+    "code": "100425"
+  },
+  {
+    "state": "Punjab",
+    "area": "Mansa",
+    "code": "100426"
+  },
+  {
+    "state": "Punjab",
+    "area": "Maur",
+    "code": "100427"
+  },
+  {
+    "state": "Punjab",
+    "area": "Moga Apmc",
+    "code": "100428"
+  },
+  {
+    "state": "Punjab",
+    "area": "Muktsar",
+    "code": "100429"
+  },
+  {
+    "state": "Punjab",
+    "area": "Nawanshahr Market",
+    "code": "100430"
+  },
+  {
+    "state": "Punjab",
+    "area": "Pathankot",
+    "code": "42057"
+  },
+  {
+    "state": "Punjab",
+    "area": "Patiala",
+    "code": "42101"
+  },
+  {
+    "state": "Punjab",
+    "area": "Raman Apmc",
+    "code": "100431"
+  },
+  {
+    "state": "Punjab",
+    "area": "Rampura Phul",
+    "code": "100432"
+  },
+  {
+    "state": "Punjab",
+    "area": "Ropar",
+    "code": "100433"
+  },
+  {
+    "state": "Punjab",
+    "area": "Sangrur",
+    "code": "100434"
+  },
+  {
+    "state": "Punjab",
+    "area": "Sardulgarh Apmc",
+    "code": "100435"
+  },
+  {
+    "state": "Punjab",
+    "area": "Tappa",
+    "code": "100436"
+  },
+  {
+    "state": "Punjab",
+    "area": "Tarn Taran Apmc",
+    "code": "100437"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Aabu Road",
+    "code": "100013"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Ajmer",
+    "code": "42343"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Alwar",
+    "code": "42255"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Anoopgarh",
+    "code": "100014"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Anta",
+    "code": "100015"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Anta Baran",
+    "code": "99510"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Atru",
+    "code": "100016"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bajju",
+    "code": "100017"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Balotra",
+    "code": "100018"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bandikui",
+    "code": "100019"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Banswada",
+    "code": "42655"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Baran",
+    "code": "100020"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Barisadri",
+    "code": "100021"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Barmer",
+    "code": "42435"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Barodamev",
+    "code": "100022"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bassi",
+    "code": "100023"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bayana",
+    "code": "100024"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Beawar",
+    "code": "100025"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Begu",
+    "code": "100026"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bhadra",
+    "code": "100027"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bharatpur",
+    "code": "42258"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bhawani Mandi",
+    "code": "100028"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bhilwara",
+    "code": "42447"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bhinmal",
+    "code": "100029"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bijay Nagar",
+    "code": "100030"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bijoliya",
+    "code": "100031"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bikaner",
+    "code": "42165"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bilara",
+    "code": "100032"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Bundi",
+    "code": "42450"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chabra",
+    "code": "100033"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chaksu",
+    "code": "100034"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chirawa",
+    "code": "100035"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chittorgarh",
+    "code": "42546"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chittorgarh Kvk",
+    "code": "99511"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chomehla",
+    "code": "100036"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chomu F And V",
+    "code": "100037"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chomu Grain",
+    "code": "100038"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Chottisadri",
+    "code": "100039"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Churu",
+    "code": "42170"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dausa",
+    "code": "100040"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Deedwana",
+    "code": "100041"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Deeg",
+    "code": "100042"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Degana",
+    "code": "100043"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dei",
+    "code": "100044"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Deoli",
+    "code": "100045"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dholpur",
+    "code": "42354"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dholpur Kvk",
+    "code": "99512"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dooni",
+    "code": "100046"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dungarpur",
+    "code": "100047"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Dungarpur Kvk",
+    "code": "99513"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Fatehnagar",
+    "code": "100048"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Fatehpur",
+    "code": "100049"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Gajsinghpur",
+    "code": "100050"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Gangapur City",
+    "code": "100051"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Gangapur-rj",
+    "code": "100052"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Gharsana",
+    "code": "100053"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Goluwala",
+    "code": "100054"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Guda Godji",
+    "code": "100055"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Hanumangarh",
+    "code": "99919"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Hanumangarh Kvk",
+    "code": "99514"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Hindoun",
+    "code": "100056"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Iklera",
+    "code": "100057"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Itawa",
+    "code": "100058"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaipur-amer",
+    "code": "99969"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaipur-amo Jaipur",
+    "code": "42348"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaipur-collectorate Circle",
+    "code": "99968"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaipur-transport Nagar",
+    "code": "99967"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaipur-vaishali Nagar",
+    "code": "99966"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaisalmer",
+    "code": "42328"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaisalmer Kvk",
+    "code": "99515"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaitaran",
+    "code": "100059"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jaitsar",
+    "code": "100060"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jalore",
+    "code": "42439"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jalore Kvk",
+    "code": "99516"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jhalawar",
+    "code": "42555"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jhunjhunu",
+    "code": "100061"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "code": "42339"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kaman",
+    "code": "100062"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kapasan",
+    "code": "100063"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Karauli",
+    "code": "99517"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kekri",
+    "code": "100064"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Keshoraipatan",
+    "code": "100065"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kesrisinghpur",
+    "code": "100066"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Khairthal",
+    "code": "100067"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Khajuwala",
+    "code": "100068"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Khanpur",
+    "code": "100069"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kherli",
+    "code": "100070"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kishangarh Renwal",
+    "code": "100071"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kota",
+    "code": "42452"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kotputli",
+    "code": "100072"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kuchamancity",
+    "code": "100073"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Kumbalgarh",
+    "code": "30021"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Lalsot",
+    "code": "100074"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Loonkaransar",
+    "code": "100075"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "M. Kishangarh",
+    "code": "100076"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Mahuwa Mandawar",
+    "code": "100077"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Mahuwa Rj",
+    "code": "100078"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Malpura",
+    "code": "100079"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Mandalgarh",
+    "code": "100080"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Mandawari",
+    "code": "100081"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Merta City",
+    "code": "100082"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Mount Abu",
+    "code": "42540"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nadbai",
+    "code": "100083"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nagar",
+    "code": "100084"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nagaur",
+    "code": "42242"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nawalgarh",
+    "code": "100085"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Neem Ka Thana",
+    "code": "100086"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nimbahera",
+    "code": "100087"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Niwai",
+    "code": "100088"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nohar",
+    "code": "100089"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Nokha",
+    "code": "100090"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Padampur",
+    "code": "100091"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Pali",
+    "code": "99920"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Palsana",
+    "code": "100092"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Phalodi",
+    "code": "100093"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Pilani",
+    "code": "42174"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Pilibanga",
+    "code": "100094"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Piparcity",
+    "code": "100095"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Pratapgarh Rj",
+    "code": "100096"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Raisinghnagar",
+    "code": "100097"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Rajdhani Mandi Kukarkhera",
+    "code": "100098"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Rajsamand",
+    "code": "100550"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Ramganj Mandi",
+    "code": "100099"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Rani",
+    "code": "100100"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Raniwara",
+    "code": "100101"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Ratangarh",
+    "code": "100102"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Rawatsar",
+    "code": "100103"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Rawla",
+    "code": "100104"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Ridmalsar",
+    "code": "100551"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sadulpur",
+    "code": "100105"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sadulshahar",
+    "code": "100106"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sanchore",
+    "code": "100107"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sangariya",
+    "code": "100108"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sardar Shahar",
+    "code": "100109"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sawai Madhopur",
+    "code": "42453"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Shahpura",
+    "code": "100110"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Siker",
+    "code": "42249"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sirohi",
+    "code": "99518"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sojat Road",
+    "code": "100111"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sri Dungargarh",
+    "code": "100112"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sri Madhopur",
+    "code": "100113"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sri Vijaynagar",
+    "code": "100114"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sriganganagar",
+    "code": "42123"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sriganganagar F And V",
+    "code": "100115"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Srikaranpur",
+    "code": "100116"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sujangarh",
+    "code": "100117"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sumerganj",
+    "code": "100118"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Sumerpur",
+    "code": "100119"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Surajgarh",
+    "code": "100120"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Suratgarh",
+    "code": "100121"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Tonk",
+    "code": "42349"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Udaipur",
+    "code": "42542"
+  },
+  {
+    "state": "Rajasthan",
+    "area": "Uniyara",
+    "code": "100122"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Chujachen",
+    "code": "101007"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Dikchu",
+    "code": "101010"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Gangtok",
+    "code": "42299"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Gangtok-tadong",
+    "code": "42217"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Gyalsingh",
+    "code": "26002"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Lachung",
+    "code": "30023"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Mangan",
+    "code": "26001"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Namchi",
+    "code": "26003"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Pakyong",
+    "code": "26004"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Pelling",
+    "code": "30024"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Rangit",
+    "code": "101028"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Rongnichu",
+    "code": "101029"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Soreng",
+    "code": "26005"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Tashiding",
+    "code": "101041"
+  },
+  {
+    "state": "Sikkim",
+    "area": "Teesta Iii",
+    "code": "101042"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Ammoor",
+    "code": "100438"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Anaimalai",
+    "code": "100439"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Annur",
+    "code": "100440"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Anthiyur",
+    "code": "100441"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Arani",
+    "code": "100442"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Aruppukottai",
+    "code": "99530"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Avalurpet",
+    "code": "100443"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Chennai-ennore",
+    "code": "99948"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Chennai-madhavaram",
+    "code": "99947"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Chennai-meenambakkam",
+    "code": "43279"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Chennai-nungambakkam",
+    "code": "43278"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Chetpet",
+    "code": "100444"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Cheyyar",
+    "code": "100445"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Coimbatore",
+    "code": "43321"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Coonoor",
+    "code": "43318"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Cumbum",
+    "code": "100446"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Desur",
+    "code": "100447"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Dharmapuri",
+    "code": "43301"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Dindigul",
+    "code": "100448"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Erode",
+    "code": "100449"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Gingee",
+    "code": "100450"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Gobichettipalayam",
+    "code": "100451"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Gudiyatham",
+    "code": "100452"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Harur",
+    "code": "100453"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kalavai",
+    "code": "100454"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kallakurichi",
+    "code": "100455"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kamuthi",
+    "code": "100456"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "code": "100457"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kanyakumari",
+    "code": "43377"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Karaikal",
+    "code": "43346"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kattapakkam",
+    "code": "99523"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kilpennathur",
+    "code": "100458"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kodaikanal",
+    "code": "43339"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Kuthalam",
+    "code": "100459"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Lalgudi",
+    "code": "100460"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Madurai",
+    "code": "43360"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Madurai",
+    "code": "100461"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Maduranathankam",
+    "code": "100462"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Mamallapuram",
+    "code": "30016"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Mayiladuthurai",
+    "code": "100463"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Moolanur",
+    "code": "100464"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Mudhukalathur",
+    "code": "100465"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Nagapattinam",
+    "code": "43347"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Natham",
+    "code": "100466"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Negamam",
+    "code": "100552"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Oddanchatram",
+    "code": "100467"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Ooty",
+    "code": "30006"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Palani",
+    "code": "100468"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Palayankottai",
+    "code": "43376"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Pamban",
+    "code": "43363"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Panruti",
+    "code": "100469"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Papparapatty",
+    "code": "99522"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Paramakudi",
+    "code": "100470"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Paramathi Velur",
+    "code": "100471"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Perundurai",
+    "code": "100472"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Pethappampatti",
+    "code": "100473"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Pollachi",
+    "code": "100474"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Polur",
+    "code": "100475"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Rajapalayam",
+    "code": "100476"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Rajasingamangalam",
+    "code": "100477"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Rameshwaram",
+    "code": "30017"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Ramnadu",
+    "code": "99525"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Salem",
+    "code": "43325"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sandhiyur",
+    "code": "99526"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sankarapuram",
+    "code": "100478"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sathyamangalam",
+    "code": "100479"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sembanarkoil",
+    "code": "100480"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sirkali",
+    "code": "100481"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Sirugamani",
+    "code": "99527"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Theni",
+    "code": "100482"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Thirukovilur",
+    "code": "100483"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Thirupathur",
+    "code": "100484"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Thiruppur",
+    "code": "100485"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Thiruvallikeni",
+    "code": "99946"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Thiyagadurgam",
+    "code": "100486"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Tindivanam",
+    "code": "100487"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Tiruchirapalli",
+    "code": "43344"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Tirur",
+    "code": "99528"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Tondi",
+    "code": "43361"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Udumalpet",
+    "code": "100488"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Ulundurpettai",
+    "code": "100489"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Usilampatti",
+    "code": "100490"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vamban",
+    "code": "99524"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vandavasi",
+    "code": "100491"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vaniyambadi",
+    "code": "100492"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vellakoil",
+    "code": "100493"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vellore",
+    "code": "100494"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vellore",
+    "code": "43303"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vettavalam",
+    "code": "100495"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Vikiravandi",
+    "code": "100496"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Villupuram",
+    "code": "100497"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Virdhachalam",
+    "code": "99521"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Virinjipuram",
+    "code": "99529"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Virudhachalam",
+    "code": "100498"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Virudhunagar",
+    "code": "100499"
+  },
+  {
+    "state": "Tamil Nadu",
+    "area": "Yercaud",
+    "code": "43340"
+  },
+  {
+    "state": "Telangana",
+    "area": "Achampet",
+    "code": "100500"
+  },
+  {
+    "state": "Telangana",
+    "area": "Adilabad",
+    "code": "43025"
+  },
+  {
+    "state": "Telangana",
+    "area": "Adilabad Kvk",
+    "code": "99531"
+  },
+  {
+    "state": "Telangana",
+    "area": "Atmakur",
+    "code": "100501"
+  },
+  {
+    "state": "Telangana",
+    "area": "Badepally",
+    "code": "100502"
+  },
+  {
+    "state": "Telangana",
+    "area": "Bhadrachalam",
+    "code": "43136"
+  },
+  {
+    "state": "Telangana",
+    "area": "Bhainsa",
+    "code": "100503"
+  },
+  {
+    "state": "Telangana",
+    "area": "Choppadandi",
+    "code": "100504"
+  },
+  {
+    "state": "Telangana",
+    "area": "Devarakadra",
+    "code": "100505"
+  },
+  {
+    "state": "Telangana",
+    "area": "Devarakonda",
+    "code": "100506"
+  },
+  {
+    "state": "Telangana",
+    "area": "Dindigul Iaf",
+    "code": "99997"
+  },
+  {
+    "state": "Telangana",
+    "area": "Echoda",
+    "code": "100507"
+  },
+  {
+    "state": "Telangana",
+    "area": "Enkoor",
+    "code": "100508"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gaddiannaram",
+    "code": "100509"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gadwal",
+    "code": "100510"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gajwel",
+    "code": "100511"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gangadhara",
+    "code": "100512"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gollapally",
+    "code": "100513"
+  },
+  {
+    "state": "Telangana",
+    "area": "Gudimalkapur",
+    "code": "100514"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hanamkonda",
+    "code": "43087"
+  },
+  {
+    "state": "Telangana",
+    "area": "Husnabad",
+    "code": "100515"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "code": "43128"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hyderabad-hakimpet",
+    "code": "99933"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hyderabad-hayathnagar",
+    "code": "99932"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hyderabad-icrisat Patancheru",
+    "code": "99934"
+  },
+  {
+    "state": "Telangana",
+    "area": "Hyderabad-rajendra Nagar",
+    "code": "99931"
+  },
+  {
+    "state": "Telangana",
+    "area": "Jagtial",
+    "code": "100516"
+  },
+  {
+    "state": "Telangana",
+    "area": "Jammikunta",
+    "code": "100517"
+  },
+  {
+    "state": "Telangana",
+    "area": "Jangaon",
+    "code": "100518"
+  },
+  {
+    "state": "Telangana",
+    "area": "Kalwakurthy",
+    "code": "100519"
+  },
+  {
+    "state": "Telangana",
+    "area": "Kamareddy",
+    "code": "100520"
+  },
+  {
+    "state": "Telangana",
+    "area": "Kampasagar",
+    "code": "99534"
+  },
+  {
+    "state": "Telangana",
+    "area": "Karimnagar",
+    "code": "100521"
+  },
+  {
+    "state": "Telangana",
+    "area": "Kesamudram",
+    "code": "100522"
+  },
+  {
+    "state": "Telangana",
+    "area": "Khammam",
+    "code": "43137"
+  },
+  {
+    "state": "Telangana",
+    "area": "Madnoor",
+    "code": "100523"
+  },
+  {
+    "state": "Telangana",
+    "area": "Mahabubabad",
+    "code": "100524"
+  },
+  {
+    "state": "Telangana",
+    "area": "Mahabubnagar",
+    "code": "43168"
+  },
+  {
+    "state": "Telangana",
+    "area": "Makthal",
+    "code": "100525"
+  },
+  {
+    "state": "Telangana",
+    "area": "Malyal",
+    "code": "99533"
+  },
+  {
+    "state": "Telangana",
+    "area": "Medak",
+    "code": "43083"
+  },
+  {
+    "state": "Telangana",
+    "area": "Metpally",
+    "code": "100526"
+  },
+  {
+    "state": "Telangana",
+    "area": "Miryalaguda",
+    "code": "100527"
+  },
+  {
+    "state": "Telangana",
+    "area": "Nagarkurnool",
+    "code": "100528"
+  },
+  {
+    "state": "Telangana",
+    "area": "Nakrekal",
+    "code": "100529"
+  },
+  {
+    "state": "Telangana",
+    "area": "Nalgonda",
+    "code": "43133"
+  },
+  {
+    "state": "Telangana",
+    "area": "Narayanpet",
+    "code": "100530"
+  },
+  {
+    "state": "Telangana",
+    "area": "Narsampet",
+    "code": "100531"
+  },
+  {
+    "state": "Telangana",
+    "area": "Nawabpet",
+    "code": "100532"
+  },
+  {
+    "state": "Telangana",
+    "area": "Nizamabad",
+    "code": "43081"
+  },
+  {
+    "state": "Telangana",
+    "area": "Pargi",
+    "code": "100533"
+  },
+  {
+    "state": "Telangana",
+    "area": "Parkal",
+    "code": "100534"
+  },
+  {
+    "state": "Telangana",
+    "area": "Ramagundam",
+    "code": "43086"
+  },
+  {
+    "state": "Telangana",
+    "area": "Sadasivpet",
+    "code": "100535"
+  },
+  {
+    "state": "Telangana",
+    "area": "Shadnagar",
+    "code": "100536"
+  },
+  {
+    "state": "Telangana",
+    "area": "Shankarapally",
+    "code": "100537"
+  },
+  {
+    "state": "Telangana",
+    "area": "Siddipet",
+    "code": "100538"
+  },
+  {
+    "state": "Telangana",
+    "area": "Suryapeta",
+    "code": "100539"
+  },
+  {
+    "state": "Telangana",
+    "area": "Tandur",
+    "code": "100540"
+  },
+  {
+    "state": "Telangana",
+    "area": "Tirumalgiri",
+    "code": "100541"
+  },
+  {
+    "state": "Telangana",
+    "area": "Vatpally",
+    "code": "100542"
+  },
+  {
+    "state": "Telangana",
+    "area": "Vikarabad",
+    "code": "100543"
+  },
+  {
+    "state": "Telangana",
+    "area": "Wanaparthy Road",
+    "code": "100544"
+  },
+  {
+    "state": "Telangana",
+    "area": "Wanaparthy Town",
+    "code": "100545"
+  },
+  {
+    "state": "Telangana",
+    "area": "Warangal",
+    "code": "99925"
+  },
+  {
+    "state": "Telangana",
+    "area": "Wyra",
+    "code": "99532"
+  },
+  {
+    "state": "Telangana",
+    "area": "Zaheerabad",
+    "code": "100546"
+  },
+  {
+    "state": "Tripura",
+    "area": "Agartala",
+    "code": "42724"
+  },
+  {
+    "state": "Tripura",
+    "area": "Agartala Kvk",
+    "code": "99535"
+  },
+  {
+    "state": "Tripura",
+    "area": "Kailashahar",
+    "code": "42618"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Achhalda Apmc",
+    "code": "100123"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Achnera",
+    "code": "100124"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "code": "42260"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ajuha",
+    "code": "100125"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Akbarpur",
+    "code": "100126"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Aligarh",
+    "code": "42262"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Amroha Apmc",
+    "code": "100553"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Anand Nagar Apmc",
+    "code": "100127"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Atarra Apmc",
+    "code": "100128"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Auraiya",
+    "code": "100129"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ayodhya",
+    "code": "100554"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Azamgarh",
+    "code": "99539"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Azamgarh",
+    "code": "42381"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Badaun",
+    "code": "100130"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Baghpat",
+    "code": "99540"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bahraich",
+    "code": "42273"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ballia",
+    "code": "42384"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Balrampur Apmc",
+    "code": "100131"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Banda",
+    "code": "42473"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bangarmau",
+    "code": "100132"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Barabanki",
+    "code": "42370"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bareilly",
+    "code": "42189"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Basti",
+    "code": "100133"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bhadohi",
+    "code": "99542"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bharthana",
+    "code": "100134"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bharuasumerpur",
+    "code": "100135"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bijnor",
+    "code": "42143"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bilsi",
+    "code": "100136"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bindiki",
+    "code": "100137"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bisalpur",
+    "code": "100138"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bulandshahar",
+    "code": "100139"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Bulandshahar Kvk",
+    "code": "99543"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chandauli",
+    "code": "100140"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chandauli Kvk",
+    "code": "99544"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chandausi",
+    "code": "100141"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Charra",
+    "code": "100142"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chaubepur",
+    "code": "100143"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chibramau",
+    "code": "100144"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Chitrakoot Kvk",
+    "code": "99545"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Dadri Up",
+    "code": "100145"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Deoria",
+    "code": "100146"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Etah",
+    "code": "100147"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Etawah",
+    "code": "42364"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Faizabad",
+    "code": "42374"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Farrukhabad",
+    "code": "100148"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Fatehpur Apmc",
+    "code": "100149"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Fatehpur Kvk",
+    "code": "99546"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Fatehpur Sikri",
+    "code": "100150"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Firozabad Apmc",
+    "code": "100151"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Fursatganj",
+    "code": "42372"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Gautam Budhnagar",
+    "code": "99926"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "code": "99927"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ghazipur",
+    "code": "99547"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ghiror",
+    "code": "100152"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Golagokarnath",
+    "code": "100153"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Gonda",
+    "code": "100555"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Gorakhpur",
+    "code": "42379"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Gorakhpur Kvk",
+    "code": "99548"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Hamirpur",
+    "code": "42469"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Hapur",
+    "code": "100154"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Hardoi",
+    "code": "42271"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Hasanpur Apmc",
+    "code": "100155"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Hathras",
+    "code": "100156"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jahangirabad",
+    "code": "100556"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jais",
+    "code": "100157"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jalalabad Apmc",
+    "code": "100158"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jalaun",
+    "code": "100159"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jangipura",
+    "code": "100160"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jaunpur Apmc",
+    "code": "100161"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jaunpur Kvk",
+    "code": "99549"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Jhansi",
+    "code": "42463"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kaimganj",
+    "code": "100162"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kannauj",
+    "code": "100163"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kannauj Anaughi",
+    "code": "99550"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "code": "42366"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kanpur Airforce",
+    "code": "53"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kanpur Barra",
+    "code": "42367"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Karwi Apmc",
+    "code": "100164"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kasganj",
+    "code": "100165"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Khair",
+    "code": "100166"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Khalilabad",
+    "code": "100167"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Khurja",
+    "code": "100168"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Konch",
+    "code": "100169"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kopaganj",
+    "code": "100557"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kosikalan",
+    "code": "100170"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kushinagar",
+    "code": "90188"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Kushinagar Kvk",
+    "code": "99551"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lakhimpur Kheri",
+    "code": "42270"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lalitpur",
+    "code": "100171"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lucknow-airport",
+    "code": "42369"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lucknow-control Room",
+    "code": "99971"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lucknow-hanuman Setu",
+    "code": "99970"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lucknow-malihabad",
+    "code": "99972"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Lucknow-mohanlalganj",
+    "code": "99973"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Madhoganj",
+    "code": "100172"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mahmudabad",
+    "code": "100173"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mahoba",
+    "code": "100174"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mainpuri",
+    "code": "42265"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mainpuri Kvk",
+    "code": "99552"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mathura Vrindavan",
+    "code": "30005"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mauranipur",
+    "code": "100175"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Meerut",
+    "code": "42139"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Milak",
+    "code": "100176"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mirzapur",
+    "code": "100177"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mohamadabad Apmc",
+    "code": "100558"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Mohana",
+    "code": "99554"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "code": "42187"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Motipur Harhwa",
+    "code": "99541"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Muskera",
+    "code": "100178"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Muzaffarnagar",
+    "code": "42138"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Naanpara",
+    "code": "100179"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Najibabad Apmc",
+    "code": "100180"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Naugarh Apmc",
+    "code": "100181"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Nautanwa Apmc",
+    "code": "100182"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Nawabganj Apmc",
+    "code": "100183"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Niyamatpur",
+    "code": "99553"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Noida Apmc",
+    "code": "100559"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Palia Kalan",
+    "code": "100184"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Partawal",
+    "code": "100185"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Pilibhit",
+    "code": "100560"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Powayan",
+    "code": "100186"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Pratapgarh",
+    "code": "100187"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Prayagraj",
+    "code": "42474"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Puranpur",
+    "code": "100189"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Rae-bareli",
+    "code": "100190"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Rampur",
+    "code": "100191"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Rampur Bilaspur",
+    "code": "100192"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Rasra Apmc",
+    "code": "100193"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Rath",
+    "code": "100194"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Robertsganj",
+    "code": "100195"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sadabad Apmc",
+    "code": "100196"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Safdarganj",
+    "code": "100197"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Saharanpur",
+    "code": "100561"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sahiyapur",
+    "code": "100198"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sahjanwa Apmc",
+    "code": "100199"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sambhal Apmc",
+    "code": "100200"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sandila Apmc",
+    "code": "100201"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Shaganj",
+    "code": "100202"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Shahbad Hardoi",
+    "code": "100203"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Shahjahanpur",
+    "code": "42266"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Shamli",
+    "code": "100204"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Shikohabad",
+    "code": "100205"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sirsaganj",
+    "code": "100206"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sitapur",
+    "code": "100207"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Sultanpur",
+    "code": "42377"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Tikuniya",
+    "code": "100208"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Tissuhi",
+    "code": "99555"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Tulsipur Apmc",
+    "code": "100209"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Tundla",
+    "code": "100210"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Ujhani",
+    "code": "100211"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Unnao Apmc",
+    "code": "100212"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "code": "42479"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "area": "Varanasi Bhu",
+    "code": "42483"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Abbott Mount",
+    "code": "101048"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Almora",
+    "code": "99912"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Asan Bird Sanctuary",
+    "code": "101049"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Auli",
+    "code": "101050"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Badrinath",
+    "code": "101051"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Bageshwar",
+    "code": "101052"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Baijnath",
+    "code": "101053"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Barkot",
+    "code": "90003"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Bazpur",
+    "code": "100215"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Bhimtal",
+    "code": "101054"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Bhowali",
+    "code": "101055"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Binsar",
+    "code": "101056"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Chakrata",
+    "code": "101057"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Chamba",
+    "code": "101058"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Chamoli",
+    "code": "42117"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Champawat",
+    "code": "31001"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Chaukori",
+    "code": "101059"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Chopta",
+    "code": "101060"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Corbett National Park",
+    "code": "101061"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-asharori",
+    "code": "99954"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-jhajhara",
+    "code": "99952"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-karanpur",
+    "code": "99951"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-mokhampur",
+    "code": "42111"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-sahastradhara",
+    "code": "99953"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dehradun-ucost",
+    "code": "99955"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Devprayag",
+    "code": "101062"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dhanaulti",
+    "code": "101063"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dharchula",
+    "code": "101064"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Dhaulia Ganga",
+    "code": "101009"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Gadarpur",
+    "code": "100216"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Gangotri",
+    "code": "101065"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Ghangaria",
+    "code": "101066"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Gopeshwar",
+    "code": "101067"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Guptkashi",
+    "code": "101068"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Gwaldam",
+    "code": "101069"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Haldwani",
+    "code": "100217"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Haridwar",
+    "code": "99918"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Harsil",
+    "code": "101070"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Hemkund Sahib",
+    "code": "101071"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Jageshwar",
+    "code": "101072"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Jaspur",
+    "code": "100218"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Jeolikot",
+    "code": "101073"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Joshimath",
+    "code": "42116"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Kanatal",
+    "code": "101074"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Kashipur",
+    "code": "100219"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Kausani",
+    "code": "88829"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Kedarnath",
+    "code": "101075"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Khatima",
+    "code": "100220"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Khirsu",
+    "code": "101076"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Lansdowne",
+    "code": "88831"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Lohaghat",
+    "code": "101077"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Madhyamaheshwar",
+    "code": "101078"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Maneribhali-i",
+    "code": "101020"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Maneribhali-ii (dharasu)",
+    "code": "101021"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Matela",
+    "code": "99536"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Mukteshwar",
+    "code": "42147"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Munsiyari",
+    "code": "101079"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Mussorie",
+    "code": "42112"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Nainital",
+    "code": "42146"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Nainital Jeolikot",
+    "code": "99537"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Naitwar Mori",
+    "code": "101022"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Nanakmatta",
+    "code": "100221"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Pantnagar",
+    "code": "42148"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Piran Kaliyar Sharif Dargah",
+    "code": "101080"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Pithoragarh",
+    "code": "99911"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Pithoragarh Kvk",
+    "code": "99538"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Rajaji National Park",
+    "code": "101081"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Ramgarh",
+    "code": "101082"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Ramnagar",
+    "code": "100222"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Ranikhet",
+    "code": "101083"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Rishikesh",
+    "code": "90014"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Roorkee",
+    "code": "100223"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Rudraprayag",
+    "code": "90015"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Sattal",
+    "code": "101084"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Shrinagar",
+    "code": "101036"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Singoli Bhatwari",
+    "code": "101037"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Sitarganj",
+    "code": "100224"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Srinagar Uttrakhand",
+    "code": "90017"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Tanakpur",
+    "code": "101085"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Tapovan",
+    "code": "40062"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Tapovan Vishnugad",
+    "code": "101040"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Tehri",
+    "code": "42114"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Udham Singh Nagar",
+    "code": "101086"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Ukhimath",
+    "code": "90018"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Urai",
+    "code": "100213"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Uttarkashi",
+    "code": "42108"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Valley Of Flowers",
+    "code": "101087"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Vikasnagar",
+    "code": "100225"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Vishnugad Pipalkoti",
+    "code": "101045"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Vishnuprayag",
+    "code": "101046"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Vyasi",
+    "code": "101047"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Wazirganj Apmc",
+    "code": "100214"
+  },
+  {
+    "state": "Uttrakhand",
+    "area": "Yamunotri",
+    "code": "101088"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Asansol",
+    "code": "42704"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Ashoknagar",
+    "code": "99560"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Bagda Krishak Bazar",
+    "code": "100226"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Baharampur",
+    "code": "42603"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Bankura",
+    "code": "42707"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Bethuadahari Principal Market Yard",
+    "code": "100227"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Bishnupur",
+    "code": "100228"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Bishnupur",
+    "code": "88823"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Burdwan",
+    "code": "42709"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Coochbehar",
+    "code": "42403"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Darjeeling",
+    "code": "42293"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Dhupguri Principal Market Yard",
+    "code": "100229"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Diamond Harbour",
+    "code": "42811"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Digha",
+    "code": "42901"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Falakata",
+    "code": "100230"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Gangarampur",
+    "code": "100231"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Islampur Principal Market Yard",
+    "code": "100232"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Jalpaiguri",
+    "code": "42399"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Jiyaganj Krishak Bazar",
+    "code": "100233"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kalimpong",
+    "code": "42296"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kalna Sub Market Yard",
+    "code": "100234"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Karimpur Submarket Yard",
+    "code": "100235"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kolkata-alipur",
+    "code": "42807"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kolkata-dum Dum",
+    "code": "42809"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kolkata-howrah",
+    "code": "42805"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Kolkata-salt Lake",
+    "code": "42816"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Krishnanagar",
+    "code": "42711"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Malda",
+    "code": "42503"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Midnapore",
+    "code": "42803"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Mohamad Bazar Krishak Bazar",
+    "code": "100236"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Murshidabad",
+    "code": "99559"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Nakashipara Krishak Bazar",
+    "code": "100237"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Panskura I Krishak Bazar",
+    "code": "100238"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Purulia",
+    "code": "99561"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Ramshai",
+    "code": "99557"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Ratua",
+    "code": "99558"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Samsherganj Krishak Bazar",
+    "code": "100239"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Samsi Sub Market Yard",
+    "code": "100240"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Santiniketan Bolpur",
+    "code": "99556"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Sheoraphuli",
+    "code": "100241"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Siliguri",
+    "code": "42397"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Sriniketan",
+    "code": "42708"
+  },
+  {
+    "state": "West Bengal",
+    "area": "Sunderban",
+    "code": "88824"
+  }
+]
