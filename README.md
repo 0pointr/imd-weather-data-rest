@@ -10,6 +10,11 @@ This package attempts to scrape data from IMD's website and serve it in a tidy
 format, but this also means it is at the mercy of IMD not changing its website's
 markup.
 
+## Starting the server
+* Node.js v18 and above
+* Default port is `5859`
+* `npm i && npm run start` 
+
 
 ## API Endpoints
 #1 Get all IMD weather station codes
@@ -135,3 +140,8 @@ markup.
 		    "moonrise": "23:36"
 	    }
     }
+
+## Disclaimer
+- NOT AFFILIATED TO INDIA METEOROLOGICAL DEPARTMENT IN ANY WAY. ALL DUE CREDITS TO THEM, THIS TOOL ONLY PROVIDES A WAY TO ACCESS THE DATA.
+- DATA IS PROVIDED AS IS WITHOUT ANY MODIFICATIONS. ANY DEVIATION SHOULD BE CONSIDERED A SOFTWARE BUG.
+- This tool may break as soon as IMD decides to change their website markup. It would not be prudent to rely on this tool for any mission critical application.
